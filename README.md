@@ -11,3 +11,5 @@ Projeto 4 - https://github.com/HebertMachado/Projeto005
 
 Projeto 5 - https://github.com/HebertMachado/Site-museu-nacional
 
+Projeto 6 - https://github.com/HebertMachado/Site-cafe
+
